@@ -1,20 +1,39 @@
 .TeamInfoContainer{
     background-color:#0E0A2B;
 }
+
 .teamInfo{
     display:flex;
-    justify-content: center;
+    text-align: left;
+    justify-content: space-around;
     align-items: center;
     background-color: #3A42FF;
     margin-left: 200px;
     margin-right: 200px;
+    border-radius: 20px;
+    padding-top: 20px;
+    color: white;
+    padding-bottom: 20px;
 }
 
 .teamInfo img{
     width: 300px;
     height: 180px;
 }
+.mainConteiner{
+    background-color:#0E0A2B;
+    color: #0E0A2B;
+}
 
-.infoText{
-    
+.TeamDes{
+    margin-top: 100px;
+    color: white;
+    font-weight: 200;
+    margin: 20px 50px;
+}
+
+.SocialMedia img{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
 }
