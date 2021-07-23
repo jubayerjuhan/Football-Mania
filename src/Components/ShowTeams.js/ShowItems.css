@@ -1,0 +1,51 @@
+.bgChange {
+    background-color: #0E0A2A;
+    margin: 0px;
+}
+
+.row{
+    color: black;
+}
+
+.cardContainer{
+    background-color: white;
+    margin: 30px;
+    height: 350px;
+    width: 350px;
+    width: auto;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    border-radius: 5px;
+}
+
+.bgChange{
+    padding: 50px;
+}
+
+.clubLogo{
+    height: 120px;
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+.exploreBtn{
+
+  background-color: #3A42FF; 
+  border: none;
+  color: white;
+  padding: 8px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+    
+}
+
+
+.explore{
+    margin-right: 5px;
+}

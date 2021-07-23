@@ -1,0 +1,26 @@
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.headerImg{
+    width: 1366px;
+    object-fit: cover;
+    height: 280px;
+    filter: blur(1.5px);
+}
+
+
+.centered {
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+.teamLogo{
+    margin-top: 60px;
+    height: 200px;
+    width: 200px;
+}
